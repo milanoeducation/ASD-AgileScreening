@@ -20,7 +20,7 @@ Il server dei contenuti centralizza i file criptati relativi alle registrazioni 
 
 C1. 
 Il client all-in-one è un dispositivo mobile Android capace di registrazione audiovideo e di accesso a rete internet.
-Su C1 viene installata una app gratuita, priva di advertisings, disponibile su https://play.google.com/apps
+Su C1 viene installata una app gratuita, priva di advertisings, disponibile su https://play.google.com/apps .
 Tramite l'app è possibile gestire l'invio degli audiovideo corredati di commenti (vedi sezione nel folder "standard" di questo progetto).
 
 CST. 
