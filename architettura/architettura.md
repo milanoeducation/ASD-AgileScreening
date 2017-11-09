@@ -12,7 +12,7 @@ L'architettura di ASD-AS si basa su n livelli:
 - CST client stratificato
 
 SGE e BCG. 
-Il server gestionale SGE è acceduto dal personale medico tramite un browser client BCG.
+Il server gestionale SGE è acceduto dal personale medico e dagli altri soggetti interessati, tramite un browser client BCG.
 SGE consente di gestire ed utilizzare il sistema in base a un dato livello di permessi.
 
 CDN. 
