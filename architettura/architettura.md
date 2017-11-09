@@ -11,19 +11,19 @@ L'architettura di ASD-AS si basa su n livelli:
 - C1 client all-in-one
 - CST client stratificato
 
-SGE e BCG
+SGE e BCG. 
 Il server gestionale SGE è acceduto dal personale medico tramite un browser client BCG.
 SGE consente di gestire ed utilizzare il sistema in base a un dato livello di permessi.
 
-CDN
+CDN. 
 Il server dei contenuti centralizza i file criptati relativi alle registrazioni e ai loro metadati.
 
-C1
+C1. 
 Il client all-in-one è un dispositivo mobile Android capace di registrazione audiovideo e di accesso a rete internet.
 Su C1 viene installata una app gratuita, priva di advertisings, disponibile su https://play.google.com/apps
 Tramite l'app è possibile gestire l'invio degli audiovideo corredati di commenti (vedi sezione nel folder "standard" di questo progetto).
 
-CST
+CST. 
 Il client stratificato è un insieme di dispositivi organizzato in una rete domestica, adatto a registrazione audiovideo e avente accesso alla rete internet.
 Il CST può essere composto da apparati quali ipcamera, minipc Linux, altri dispositivi basati su Linux o Android.
 Sul minipc è installato il software per la gestione dell'invio degli audiovideo corredati di commenti (vedi sezione nel folder "standard" di questo progetto).
