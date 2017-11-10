@@ -28,5 +28,6 @@ Il client stratificato è un insieme di dispositivi organizzato in una rete dome
 Il CST può essere composto da apparati quali ipcamera, minipc Linux, altri dispositivi basati su Linux o Android.
 Sul minipc è installato il software per la gestione dell'invio degli audiovideo corredati di commenti (vedi sezione nel folder "standard" di questo progetto).
 Nella configurazione tipica il dispositivo dotato di apparato di registrazione comunica con il minipc Linux per la gestione delle registrazioni e l'invio al server.
+Il minipc linux è dotato di telecomando ed è collegabile via HDMI a un normale apparecchio televisivo e non necessita di tastiera o mouse.
 
 
